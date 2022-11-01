@@ -54,3 +54,5 @@ npm start               # yarn start
 - setup：创建新插件
 
 关于每个指令的具体用法，请参考官方文档 [**工作区开发**](https://koishi.js.org/manual/development.html) 章节。
+
+自己使用过程中，按照文档的流程走，发现网络连接较慢
